@@ -1,4 +1,4 @@
-# TEXT TRANSMISSION THROUGH LI-FI
+# Text Transmission Through Li-Fi
 
 A simple project using the principles of li-fi to send text from one computer to another. Two arduinos and, two LEDs and an LDR are used along with connecting wires to realize the circuit. The schematic for the circuits will be up in the near future. If you possess an LED, the brightness of and pulsation of which you can contol and an LDR that can read said pulsations, then you may be able to make use of the codes.
 
